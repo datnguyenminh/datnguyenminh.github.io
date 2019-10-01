@@ -18,7 +18,7 @@ Conferences
 ---
 
 2. **M. D. Nguyen**, T. M. Ho, L. B. Le, , and A. Girard, ["UAV placement
-and bandwidth allocation for UAV based wireless networks"] (https://ieeexplore.ieee.org/abstract/document/6698087), IEEE GLOBECOM, 2019, to be published
+and bandwidth allocation for UAV based wireless networks"], IEEE GLOBECOM, 2019, to be published
 
 
 1. **Minh Dat Nguyen**, Yuto Lim, Yasuo Tan, ["Mixture of half-duplex and full-duplex wireless network considering hidden terminal problem"], Institute of Electronics, Information and Communication Engineers (IEICE), 2018
