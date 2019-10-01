@@ -14,7 +14,8 @@ Currently, I am a Ph.D. student at [NECPHY-LAB](http://necphy-lab.com/), Institu
 
 
 
-**Education** AA
+**Education** 
+- I am a PhD student.
 
 
 **Awards**
