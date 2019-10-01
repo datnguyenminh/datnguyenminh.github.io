@@ -1,11 +1,9 @@
 # main links links
 main:
 
-  #- title: "Research"
-  #  url: /talks/ 
+  - title: "Research"
+    url: /talks/ 
 
-  - title:"Professional Research" 
-    url: /archive-layout-with-content/
 
   - title: "Publication"
     url: /publications/
