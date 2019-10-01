@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profile"
+title                    : "DatNM"
 title_separator          : "-"
 name                     : &name "Nguyen Minh Dat"
 description              : &description "personal description"
