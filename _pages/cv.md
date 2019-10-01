@@ -11,7 +11,7 @@ redirect_from:
 
 ### [NECPHY-LAB](http://necphy-lab.com/), [INRS-EMT](http://www.emt.inrs.ca/emt/)(Jul. 2018 - Present)
 - **Ph.D. Research Assistant** 
-  - Computing and radio resource management in mobile edge computing systems
+  - UAV Communications
 
 ### [WiSE LAB](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), [JAIST](http://www.jaist.ac.jp/index.html) (Apr. 2016 - Mar. 2018)
 - **Master of Engineering** 
