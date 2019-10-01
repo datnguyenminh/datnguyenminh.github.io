@@ -21,6 +21,6 @@ Conferences
 and bandwidth allocation for UAV based wireless networks"] (https://ieeexplore.ieee.org/abstract/document/6698087), IEEE GLOBECOM, 2019, to be published
 
 
-1. **Minh Dat Nguyen**, Yuto Lim, Yasuo Tan, ["Mixture of half-duplex and full-duplex wireless network considering hidden terminal problem"] (https://dspace.jaist.ac.jp/dspace/handle/10119/15266),  Institute of Electronics, Information and Communication Engineers (IEICE), 2018
+1. **Minh Dat Nguyen**, Yuto Lim, Yasuo Tan, ["Mixture of half-duplex and full-duplex wireless network considering hidden terminal problem"], Institute of Electronics, Information and Communication Engineers (IEICE), 2018
 
 
