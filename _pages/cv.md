@@ -13,14 +13,10 @@ redirect_from:
 - **Ph.D. Research Assistant** 
   - Computing and radio resource management in mobile edge computing systems
 
-### [ENSSAT](http://www.enssat.fr/en_US/recherche/laboratoire-irisa), [University of RENNES 1](https://www.univ-rennes1.fr/) (Sept. 2014 - Sept. 2015)
+### [WiSE Lab](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), [JAIST](http://www.jaist.ac.jp/index.html) (Apr. 2016 - Mar. 2018)
 - **Master of Engineering** 
-  - Inphase/quadrature imbalance and blind compensation in digital communication
+  - MAC Protocol for Full-duplex Communications
 
-### [Saigontourist Cable Television Company Limited](http://www.sctv.com.vn/) (Sept. 2013 - Sept. 2014)
+### [PTIT](http://portal.ptit.edu.vn/) (Sept. 2011 - Mar. 2016)
 - **R&D Lab**  
-  - 4K Ultra high-definition set-top box implementation
-
-### [Saigontourist Cable Television Company Limited](http://www.sctv.com.vn/) (Sept. 2013 - Sept. 2014)
-- **Bachelor of Engineering** 
-  - Fire detection based on video processing method
+  - Wireless Communication
