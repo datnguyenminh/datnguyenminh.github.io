@@ -189,7 +189,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
   archive-layout-with-content:
     output: true
     permalink: /:collection/:path/
