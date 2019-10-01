@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Research"
+    url: /talks/  
+
   - title: "Skills"
     url: /markdown/
 
@@ -9,10 +12,7 @@ main:
 
   - title: "Experiences"
     url: /cv/
-    
-
-  #- title: "Talks"
-  #  url: /talks/    
+      
 
   #- title: "Teaching"
   #  url: /teaching/    

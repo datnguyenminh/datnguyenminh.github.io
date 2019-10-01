@@ -13,7 +13,7 @@ redirect_from:
 - **Ph.D. Research Assistant** 
   - Computing and radio resource management in mobile edge computing systems
 
-### [WiSE Lab](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), [JAIST](http://www.jaist.ac.jp/index.html) (Apr. 2016 - Mar. 2018)
+### [WiSE LAB](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), [JAIST](http://www.jaist.ac.jp/index.html) (Apr. 2016 - Mar. 2018)
 - **Master of Engineering** 
   - MAC Protocol for Full-duplex Communications
 
