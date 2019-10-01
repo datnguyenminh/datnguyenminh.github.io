@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DatNM"
+title                    : "Dat Profile"
 title_separator          : "-"
 name                     : &name "Nguyen Minh Dat"
 description              : &description "personal description"
@@ -180,10 +180,10 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /publications/
+    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /portfolio/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

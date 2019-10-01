@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Experiences and Skills"
 author_profile: true
 redirect_from: 
   - /md/
