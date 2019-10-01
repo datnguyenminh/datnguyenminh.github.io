@@ -12,7 +12,7 @@ redirect_from:
 Journals
 ---
 
-1. **M.D.Nguyen**, L. B. Le,["Trajectory planning and Communication for UAV Networks"]
+1. **M.D.Nguyen**, L. B. Le, ["Trajectory planning and Communication for UAV Networks"]
 
 Conferences
 ---
