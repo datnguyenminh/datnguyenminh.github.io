@@ -12,7 +12,7 @@ redirect_from:
 Journals
 ---
 
-1. **M.D.Nguyen**, L. B. Le,["Trajectory planning and Communication for UAV Networks"].
+1. **M.D.Nguyen**, L. B. Le,["Trajectory planning and Communication for UAV Networks"]
 
 Conferences
 ---
@@ -22,5 +22,4 @@ and bandwidth allocation for UAV based wireless networks"] (https://ieeexplore.i
 
 
 1. **Minh Dat Nguyen**, Yuto Lim, Yasuo Tan, ["Mixture of half-duplex and full-duplex wireless network considering hidden terminal problem"], Institute of Electronics, Information and Communication Engineers (IEICE), 2018
-
 

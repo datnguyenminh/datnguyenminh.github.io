@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### [NECPHY-LAB](http://necphy-lab.com/), [INRS-EMT](http://www.emt.inrs.ca/emt/)(Jan. 2016 - Present)
+### [NECPHY-LAB](http://necphy-lab.com/), [INRS-EMT](http://www.emt.inrs.ca/emt/)(Jul. 2018 - Present)
 - **Ph.D. Research Assistant** 
   - Computing and radio resource management in mobile edge computing systems
 
