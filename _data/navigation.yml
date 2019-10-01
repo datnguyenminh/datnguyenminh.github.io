@@ -4,20 +4,21 @@ main:
   - title: "Research"
     url: /talks/  
 
-  - title: "Skills"
-    url: /markdown/
-
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
-  - title: "Experiences"
+  - title: "Skill"
+    url: /markdown/
+
+
+  - title: "Experience"
     url: /cv/
       
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Photos"
+  - title: "Photo"
     url: /portfolio/
         
   #- title: "Blog Posts"
