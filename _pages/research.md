@@ -13,7 +13,13 @@ redirect_from:
 
 1. Wireless Communications
 
-2. Free Space Optical Comminications
+2. Mobile Network (3G, 4G and 5G)
+
+3. Networking
+
+4. Internet of Things (IoT)
+
+5. Free Space Optical Comminications
 
 
 **<font size = "5" color="#4169E1">Research Projects</font>**
@@ -29,7 +35,7 @@ redirect_from:
 
 **<font size = "5" color="#4169E1">Awards</font>**
   - **4/2017 – 3/2018 :** Ishikawa Prefecture Scholarship, Ishikawa, Japan
-  
+
   - **2011 - 2015 :** Won PTIT scholarships for excellence students
 
 
