@@ -25,5 +25,5 @@ My current research interests include UAV communications, radio resource managem
 - "There is no substitute for hard work."" - Thomas A. Edison
 
 
-**Awards**
+**Recent News**
 
