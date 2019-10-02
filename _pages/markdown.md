@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "<font color="#0000FF">Experiences and Skills</font>"
+title: "Experiences and Skills"
 author_profile: true
 redirect_from: 
   - /md/

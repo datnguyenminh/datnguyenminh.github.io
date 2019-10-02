@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font color="#0000FF">Personal</font>"
+title: "Personal"
 permalink: /personal/
 author_profile: true
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font color="#0000FF">Publications</font>"
+title: "<Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<font color="#0000FF">Journals</font>
+<font size="5" color="#0000FF">Journals</font>
 ---
 
 1. **M.D.Nguyen**, L. B. Le, and A. Girard, ["Trajectory planning and Communication for UAV Networks"]
 
-<font color="#0000FF">Conferences</font>
+<font size="5" color="#0000FF">Conferences</font>
 ---
 
 1. **M. D. Nguyen**, T. M. Ho, L. B. Le, and A. Girard, ["UAV placement and bandwidth allocation for UAV based wireless networks"], IEEE GLOBECOM, 2019, to be published
