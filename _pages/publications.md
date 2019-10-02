@@ -12,7 +12,6 @@ redirect_from:
 <font size="5" color="#0000FF">Journals</font>
 ---
 
-1. **M.D.Nguyen**, L. B. Le, and A. Girard, ["Trajectory planning and Communication for UAV Networks"]
 
 <font size="5" color="#0000FF">Conferences</font>
 ---
