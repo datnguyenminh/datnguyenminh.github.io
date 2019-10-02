@@ -31,7 +31,7 @@ redirect_from:
 5. Canada
 
 ### Photos
-<font color="#0000FF"><bold>Banff National Park</bold></font>
+[Banff National Park](https://www.google.com/maps/place/Improvement+District+No.+9,+AB/@51.48692,-116.803663,9z/data=!3m1!4b1!4m5!3m4!1s0x53745e6276a6b03f:0x75f7de9d575748aa!8m2!3d51.5518011!4d-116.1458528)
 
 <p> <img src='/images/Louis1.jpg'> </p>
 
