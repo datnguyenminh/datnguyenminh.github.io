@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### Research Interests
+### Personality 
 
-1. Wireless Communications
+1. **Hometown**: BaVi district, Hanoi city, Vietnam
 
-2. Free Space Optical Comminications
+2. **Email**: nmdat.ptit@gmail.com, minh.dat.nguyen@emt.inrs.ca
+
+3. **Phone**: 
 
 
 ### Major cities I have visited
