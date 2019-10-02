@@ -6,7 +6,7 @@ redirect_from:
   - /md/
 ---
 
-**<font size = "6" color="#32CD32">Experiences</font>**
+**<font size = "5" color="#32CD32">Experiences</font>**
 - **<font size="4" color="#0000FF">Dec. 2017 - Feb. 2018 :</font>** Teaching Assistant (TA) at JAIST
 	- **Position :** TA for Computer Networks course
 	- **Duties :**
@@ -36,12 +36,13 @@ redirect_from:
 	- **Result :** Excellence (9.5/10)
 
 
-## Programming Skills
+**<font size = "5" color="#32CD32">Propramming Skills</font>**
+
 
   - MATLAB, C/C++, Linux, Embedded Linux, JavaScript
 
 
-## Soft-skills
+**<font size = "5" color="#32CD32">Solf Skills</font>**
 
   1. Leadership
 
