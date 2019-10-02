@@ -19,7 +19,18 @@ redirect_from:
 ## Research Projects
 - **Master of Engineering** 
   - MAC Protocol for Full-duplex Communications
+  - Wireless Sensor Network
+  - Culture-Aware Robots and Environmental Sensor Systems for Elderly Support
+
+## Certificates
+  - Cisco Certificated Networking Associate (CCNA): 
+	CISCO License CSCO12582846
+
 
 ## Awards
-- **R&D Lab**  
-  - Wireless Communication
+  - **4/2017 – 3/2018 :** 
+    - Ishikawa Prefecture Scholarship, Ishikawa, Japan
+  - **2011 - 2015 :**
+  	- Won PTIT scholarships for excellence students
+
+
