@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**<font size="4" color="#0000FF">Personality</font>** 
+**<font size="5" color="#0000FF">Personality</font>** 
 
 1. **Hometown**: BaVi district, Hanoi city, Vietnam
 
@@ -17,7 +17,7 @@ redirect_from:
 
 3. **Phone**: 
 
-**<font size="4" color="#0000FF">Major cities I have visited</font>**
+**<font size="5" color="#0000FF">Major cities I have visited</font>**
 
 1. Vietnam
 
@@ -29,7 +29,7 @@ redirect_from:
 
 5. Canada
 
-**<font size="4" color="#0000FF">Photos</font>**
+**<font size="5" color="#0000FF">Photos</font>**
 - [Banff National Park](https://www.google.com/maps/place/Improvement+District+No.+9,+AB/@51.48692,-116.803663,9z/data=!3m1!4b1!4m5!3m4!1s0x53745e6276a6b03f:0x75f7de9d575748aa!8m2!3d51.5518011!4d-116.1458528)
 
 <p> <img src='/images/Louis1.jpg'> </p>
