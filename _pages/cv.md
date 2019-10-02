@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Education"
+title: "<font color="#0000FF">Professional Education</font>"
 permalink: /cv/
 author_profile: true
 redirect_from:

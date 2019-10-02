@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal"
+title: "<font color="#0000FF">Personal</font>"
 permalink: /personal/
 author_profile: true
 redirect_from:
@@ -31,7 +31,7 @@ redirect_from:
 5. Canada
 
 ### Photos
-<font size="5" color="#0000FF"><bold>Banff National Park</bold></font>
+<font color="#0000FF"><bold>Banff National Park</bold></font>
 
 <p> <img src='/images/Louis1.jpg'> </p>
 
