@@ -41,8 +41,14 @@ redirect_from:
 
 <p> <img src='/images/Montreal_Spring.jpg'> </p>
 
-<p> <img src='/images/Montreal_Winter.jpg'> </p>
+<font size = "3"><bold>Summer</bold></font>
 
 <p> <img src='/images/Montreal_Summer.jpg'> </p>
 
+<font size = "3"><bold>Fall</bold></font>
+
 <p> <img src='/images/Montreal_Fall.jpg'> </p>
+
+<font size = "3"><bold>Winter</bold></font>
+
+<p> <img src='/images/Montreal_Winter.jpg'> </p>
