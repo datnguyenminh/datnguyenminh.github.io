@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# Research Interests
+## Research Interests
 
 1. Wireless Communications
 
 2. Free Space Optical Comminications
 
 
-# Research Projects
+## Research Projects
 - **Master of Engineering** 
   - MAC Protocol for Full-duplex Communications
 
-# Awards
+## Awards
 - **R&D Lab**  
   - Wireless Communication

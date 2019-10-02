@@ -29,7 +29,7 @@ redirect_from:
 5. Canada
 
 ### Photos
-<font size="5"><bold>Banff National Park</bold></font>
+<font size="5" color="#0000FF"><bold>Banff National Park</bold></font>
 
 <p> <img src='/images/Louis1.jpg'> </p>
 
