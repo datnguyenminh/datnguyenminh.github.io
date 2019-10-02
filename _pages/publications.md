@@ -26,4 +26,4 @@ Conferences
 
 4. **Minh Dat Nguyen**, Yuto Lim and Yasuo Tan, ["Mixture of half-duplex and full-duplex wireless network considering hidden terminal problem"], Institute of Electronics, Information and Communication Engineers (IEICE), 2017
 
-5. Yuto Lim, Sin Yee Lim, **Minh Dat Nguyen**, Cheng Li and Yasuo Tan, [“Bridging Between universAAL and ECHONET for Smart Home Environment”](https://ieeexplore.ieee.org/document/7992884) IEEE International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2017
+5. Yuto Lim, Sin Yee Lim, **Minh Dat Nguyen**, Cheng Li and Yasuo Tan, [“Bridging Between universAAL and ECHONET for Smart Home Environment”](https://ieeexplore.ieee.org/document/7992884), IEEE International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2017
