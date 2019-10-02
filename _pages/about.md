@@ -20,9 +20,10 @@ My current research interests include UAV communications, radio resource managem
 - Phone: 1-514-228-7015 (Office)
 
 
-**Awards**
-
 
 **Favorite Quote**
-- There is no substitute for hard work. - “Thomas A. Edison”
+- "There is no substitute for hard work."" - Thomas A. Edison
+
+
+**Awards**
 
