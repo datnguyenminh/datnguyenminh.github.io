@@ -11,15 +11,9 @@ redirect_from:
 
 **<font size = "5" color="#4169E1">Research Interests</font>**
 
-1. Wireless Communications
-
-2. Mobile Network (3G, 4G and 5G)
-
-3. Networking
-
-4. Internet of Things (IoT)
-
-5. Free Space Optical Comminications
+	- Wireless Communications, Mobile Network (3G, 4G and 5G)
+	- Networking, Internet of Things (IoT)
+	- Free Space Optical Comminications
 
 
 **<font size = "5" color="#4169E1">Research Projects</font>**
