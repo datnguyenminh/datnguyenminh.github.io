@@ -192,6 +192,9 @@ collections:
   personal:
     output: true
     permalink: /:collection/:path/
+  skill:
+    output: true
+    permalink: /:collection/:path/
   archive-layout-with-content:
     output: true
     permalink: /:collection/:path/
