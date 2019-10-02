@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<font size="5" color="#0000FF">Journals</font>
+<font size="5" color="#4169E1">Journals</font>
 ---
 
 
-<font size="5" color="#0000FF">Conferences</font>
+<font size="5" color="#4169E1">Conferences</font>
 ---
 
 1. **M. D. Nguyen**, T. M. Ho, L. B. Le, and A. Girard, ["UAV placement and bandwidth allocation for UAV based wireless networks"], IEEE GLOBECOM, 2019, to be published
