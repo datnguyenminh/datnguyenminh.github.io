@@ -13,7 +13,7 @@ redirect_from:
 - **Ph.D. Research Assistant** 
   - UAV Communications
 
-### [WiSE LAB](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), Japan Advanced Institute of Science and Technology[(JAIST)](http://www.jaist.ac.jp/index.html) (Apr. 2016 - Mar. 2018)
+### [WiSE LAB](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), Japan Advanced Institute of Science and Technology [(JAIST)](http://www.jaist.ac.jp/index.html) (Apr. 2016 - Mar. 2018)
 - **Master of Engineering** 
   - MAC Protocol for Full-duplex Communications
   - Wireless Sensor Network
