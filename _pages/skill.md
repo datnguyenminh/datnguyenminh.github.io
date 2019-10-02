@@ -23,7 +23,7 @@ redirect_from:
 - **<font size="4" color="#4169E1">Jun. 2016 - Aug. 2016 :</font>** Wireless Sensor Network
 	- **Advisor :** Assoc. Prof. [Yuto Lim](http://www.jaist.ac.jp/is/labs/lim-lab/research.php), JAIST
 	
-- **<font size="4" color="#4169E1">Jun. 2015 to Oct. 2015 :</font>** Internship at DASAN Networks
+- **<font size="4" color="#4169E1">Jun. 2015 to Oct. 2015 :</font>** Internship at [DASAN](https://dzsi.com) Networks
 	- **Position :** Developer/System engineer
 	- **Duties :**
 		- C, Linux, Embedded Programming
