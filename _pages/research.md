@@ -28,9 +28,8 @@ redirect_from:
 
 
 **<font size = "5" color="#4169E1">Awards</font>**
-  - **4/2017 – 3/2018 :** 
-    - Ishikawa Prefecture Scholarship, Ishikawa, Japan
-  - **2011 - 2015 :** 
-  	- Won PTIT scholarships for excellence students
+  - **4/2017 – 3/2018 :** Ishikawa Prefecture Scholarship, Ishikawa, Japan
+  
+  - **2011 - 2015 :** Won PTIT scholarships for excellence students
 
 
