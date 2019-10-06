@@ -30,7 +30,7 @@ redirect_from:
 
 2. **Japan** 
 
-	- [Ishikawa](https://www.google.com/maps/place/Ishikawa,+Japan/@36.9574386,135.6832852,8z/data=!3m1!4b1!4m5!3m4!1s0x5ff17e5ec1bc1aef:0x4bd43c138d189ab4!8m2!3d36.3260317!4d136.5289653) (<font size="3" color="#4169E1">Master Program: Apr. 2016 - Mar. 2018</font>)
+	- [Ishikawa](https://www.google.com/maps/place/Ishikawa,+Japan/@36.9574386,135.6832852,8z/data=!3m1!4b1!4m5!3m4!1s0x5ff17e5ec1bc1aef:0x4bd43c138d189ab4!8m2!3d36.3260317!4d136.5289653) (<font size="3" color="#4169E1">[Master Program]((https://datnguyenminh.github.io/files/Master_Grad.jpg)): Apr. 2016 - Mar. 2018</font>)
 
 	- [Tokyo](https://www.google.com/maps/place/Tokyo,+Japan/@35.5090627,139.2093901,9z/data=!3m1!4b1!4m5!3m4!1s0x605d1b87f02e57e7:0x2e01618b22571b89!8m2!3d35.6761919!4d139.6503106) (<font size="3" color="#4169E1">Trip: 1 - 5 Apr. 2017</font>)
 
