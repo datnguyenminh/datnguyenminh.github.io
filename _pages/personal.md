@@ -19,12 +19,12 @@ redirect_from:
 
 **<font size="5" color="#4169E1">Major cities I have visited</font>**
 
-1. Vietnam
-	- Hanoi 
+1. **Vietnam**
+	- **Hanoi** 
 
-	- Ho Chi Minh (<font size="4" color="#4169E1">Trip: 28 - 30 Apr. 2018</font>)
+	- **Ho Chi Minh** (<font size="4" color="#4169E1">Trip: 28 - 30 Apr. 2018</font>)
 
-2. Japan 
+2. **Japan** 
 
 	- [Ishikawa](https://www.google.com/maps/place/Ishikawa,+Japan/@36.9574386,135.6832852,8z/data=!3m1!4b1!4m5!3m4!1s0x5ff17e5ec1bc1aef:0x4bd43c138d189ab4!8m2!3d36.3260317!4d136.5289653) (<font size="4" color="#4169E1">Master Program: Apr. 2016 - Mar. 2018</font>)
 
@@ -41,15 +41,15 @@ redirect_from:
 	- [Fukuoka](https://www.google.com/maps/place/Fukuoka,+Japan/@33.4215478,130.3039437,9z/data=!4m5!3m4!1s0x3541eda1e9848429:0xf60a729936398783!8m2!3d33.5901838!4d130.4016888) (<font size="4" color="#4169E1">IEICE Conference: 10 - 15 Jan. 2018</font>)
 
 
-3. South Korea
+3. **South Korea**
 
 	- Incheon (<font size="4" color="#4169E1">Transit: 1 Apr. 2016</font>)
 
-4. Taiwan
+4. **Taiwan**
 
 	- Taipei (<font size="4" color="#4169E1">Transit: 24 Jun. 2018</font>)
 
-5. Canada
+5. **Canada**
 
 	- Montreal (<font size="4" color="#4169E1">Jun. 2018 - Present</font>)
 
