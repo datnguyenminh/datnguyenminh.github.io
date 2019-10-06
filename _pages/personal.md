@@ -20,13 +20,13 @@ redirect_from:
 **<font size="5" color="#4169E1">Major cities I have visited</font>**
 
 1. **Vietnam**
-	- **Hanoi** (<font size="3" color="#4169E1">Hometown</font>)
+	- Hanoi (<font size="3" color="#4169E1">Hometown</font>)
 
-	- **Nghe An** (<font size="3" color="#4169E1">Trip: 20 - 23 Jul. 2015</font>)
+	- Nghe An (<font size="3" color="#4169E1">Trip: 20 - 23 Jul. 2015</font>)
 
-	- **Quang Binh** (<font size="3" color="#4169E1">Trip: 24 - 26 Jul. 2015</font>)
+	- Quang Binh (<font size="3" color="#4169E1">Trip: 24 - 26 Jul. 2015</font>)
 
-	- **Ho Chi Minh** (<font size="3" color="#4169E1">Trip: 28 - 30 Apr. 2018</font>)
+	- Ho Chi Minh (<font size="3" color="#4169E1">Trip: 28 - 30 Apr. 2018</font>)
 
 2. **Japan** 
 
