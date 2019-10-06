@@ -1,10 +1,11 @@
 ---
-permalink: /homepage/
+permalink: /
 title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
