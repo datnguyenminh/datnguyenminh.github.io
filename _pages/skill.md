@@ -1,5 +1,5 @@
 ---
-permalink: skill
+permalink: /skill/
 title: "Experiences and Skills"
 author_profile: true
 redirect_from: 

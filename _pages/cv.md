@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Education"
-permalink: cv
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

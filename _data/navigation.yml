@@ -2,27 +2,27 @@
 main:
 
   - title: "Research"
-    url: /research/ 
+    url: research 
 
 
   - title: "Publication"
-    url: /publications/
+    url: publications
 
   - title: "Skill"
-    url: /skill/
+    url: skill
 
 
   - title: "Education"
-    url: /cv/
+    url: cv
  
   - title: "Personal"
-    url: /personal/      
+    url: personal      
 
   #- title: "Teaching"
   #  url: /teaching/    
     
   - title: "Memory"
-    url: /portfolio/
+    url: portfolio
         
   #- title: "Blog Posts"
   #  url: /year-archive/
