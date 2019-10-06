@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Personal"
-permalink: /personal/
+permalink: personal
 author_profile: true
 redirect_from:
   - /md/
