@@ -23,6 +23,9 @@ main:
     
   - title: "Memory"
     url: memory
+
+  - title:
+    url: homepage
         
   #- title: "Blog Posts"
   #  url: /year-archive/
