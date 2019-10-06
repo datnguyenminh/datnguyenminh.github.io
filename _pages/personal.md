@@ -15,7 +15,7 @@ redirect_from:
 
 2. **Email**: nmdat.ptit@gmail.com, minh.dat.nguyen@emt.inrs.ca
 
-3. **Phone**: 
+3. **Skype**: dattin93
 
 **<font size="5" color="#4169E1">Major cities I have visited</font>**
 
