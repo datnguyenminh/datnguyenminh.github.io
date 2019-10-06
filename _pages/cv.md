@@ -14,13 +14,13 @@ redirect_from:
   - UAV Communications
 
 **<font size="4" color="#4169E1">Apr. 2016 - Mar. 2018 :</font>** [WiSE LAB](http://www.jaist.ac.jp/is/labs/lim-lab/people.php), Japan Advanced Institute of Science and Technology [(JAIST)](http://www.jaist.ac.jp/index.html) 
-- **Master of Engineering** 
+- **[Master of Communication Engineering](https://datnguyenminh.github.io/files/Master_Grad.jpg)** 
   - MAC Protocol for Full-duplex Communications
   - Wireless Sensor Network
   - Culture-Aware Robots and Environmental Sensor Systems for Elderly Support
 
 **<font size="4" color="#4169E1">Sept. 2011 - Mar. 2016 :</font>** Posts and Telecommunications Institute of Technology [(PTIT)](http://portal.ptit.edu.vn/) 
-- **R&D Lab**  
+- **[Electronics & Telecommunications Engineering](https://datnguyenminh.github.io/files/PTIT.jpg)**  
   - Wireless Communication
   - Millimeter – Wave Frequency Radio over Fiber System
   - Visible Light Communications (VLC)
