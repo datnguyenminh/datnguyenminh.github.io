@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nguyen Minh Dat"
 title_separator          : 
-name                     : &name - "Nguyen Minh Dat"
+name                     : &name "Nguyen Minh Dat"
 description              : &description "personal description"
 url                      : https://datnguyenminh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,7 +99,7 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "dattin_dustin/?hl=en"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "datnm"
