@@ -25,7 +25,7 @@ redirect_from:
 
 **<font size = "5" color="#4169E1">Certificates</font>**
   - Cisco Certificated Networking Associate (CCNA): 
-	CISCO License CSCO12582846
+	CISCO License [CSCO12582846](https://datnguyenminh.github.io/files/CCNA_NMDAT_Certificate.pdf)
 
 
 **<font size = "5" color="#4169E1">Awards</font>**
