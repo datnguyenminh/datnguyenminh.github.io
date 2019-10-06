@@ -22,7 +22,9 @@ redirect_from:
 1. **Vietnam**
 	- **Hanoi** (<font size="3" color="#4169E1">Hometown</font>)
 
-	- **Nghe An** (<font size="3" color="#4169E1">Trip: 20 - 25 Jul. 2015</font>)
+	- **Nghe An** (<font size="3" color="#4169E1">Trip: 20 - 23 Jul. 2015</font>)
+
+	- **Quang Binh** (<font size="3" color="#4169E1">Trip: 24 - 26 Jul. 2015</font>)
 
 	- **Ho Chi Minh** (<font size="3" color="#4169E1">Trip: 28 - 30 Apr. 2018</font>)
 
