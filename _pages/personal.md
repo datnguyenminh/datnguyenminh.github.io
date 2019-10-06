@@ -36,7 +36,7 @@ redirect_from:
 
 	- [Osaka](https://www.google.com/maps/place/Osaka,+Japan/@34.6159666,134.5385735,9z/data=!4m5!3m4!1s0x6000e6553406e2e1:0xc55bc16ee46a2fe7!8m2!3d34.6937249!4d135.5022535) (<font size="4" color="#4169E1">Trip: 9 - 10 Dec. 2017</font>)
 
-	- [Kyoto](https://www.google.com/maps/place/Kyoto,+Japan/@35.0984404,135.5787908,11z/data=!3m1!4b1!4m5!3m4!1s0x6001a8d6cd3cc3f1:0xc0961d366bbb1d3d!8m2!3d35.011564!4d135.7681489) (<font size="4" color="#4169E1">Trip: 9 - 10 Dec. 2017</font>)
+	- [Kyoto](https://www.google.com/maps/place/Kyoto,+Japan/@35.0984404,135.5787908,11z/data=!3m1!4b1!4m5!3m4!1s0x6001a8d6cd3cc3f1:0xc0961d366bbb1d3d!8m2!3d35.011564!4d135.7681489) (<font size="4" color="#4169E1">Trip: 10 - 12 Dec. 2017</font>)
 
 	- [Fukuoka](https://www.google.com/maps/place/Fukuoka,+Japan/@33.4215478,130.3039437,9z/data=!4m5!3m4!1s0x3541eda1e9848429:0xf60a729936398783!8m2!3d33.5901838!4d130.4016888) (<font size="4" color="#4169E1">IEICE Conference: 10 - 15 Jan. 2018</font>)
 
