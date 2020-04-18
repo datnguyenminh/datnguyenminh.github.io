@@ -10,11 +10,15 @@ redirect_from:
 {% include base_path %}
 
 **<font size = "5" color="#4169E1">Research Interests</font>**
-- Wireless Communications, Mobile Network (3G, 4G and 5G)
+- Wireless Communications, Mobile Network (4G, 5G and beyond)
 
 - Networking, Internet of Things (IoT)
 
-- Free Space Optical Comminications
+- Free Space Optical Communications
+
+- Optimization
+
+- Artificial Intelligence (AI) and Machine Learning
 
 
 **<font size = "5" color="#4169E1">Research Projects</font>**
